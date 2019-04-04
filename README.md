@@ -11,3 +11,7 @@ This theme adds a Preview for every pdf bitstream of an item if it is smaller th
  * Change your theme to 'dspace-pdf-js' by changing your theme to `<theme name="dspace-pdf-js" regex=".*" path="dspace-pdf-js/" />` in
   `dspace/config/xmlui.xconf`
  * Re-Build your DSpace with `mvn -U clean package -Dmirage2.on=true`
+
+## Demo
+
+For a demo visit https://oda.mfo.de/handle/mfo/552
