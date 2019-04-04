@@ -1,7 +1,7 @@
 
 # dspace-pdf-js
 
-dsspace-pdf-js is a DSpace theme that adds the mozilla pdf viewer pdf.js (https://mozilla.github.io/pdf.js/).
+dspace-pdf-js is a DSpace theme that adds the mozilla pdf viewer pdf.js (https://mozilla.github.io/pdf.js/).
 
 This theme adds a Preview for every pdf bitstream of an item if it is smaller than 5MB.
 
